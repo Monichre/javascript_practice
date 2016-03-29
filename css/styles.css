@@ -1,0 +1,12 @@
+.container {
+  margin: auto;
+  width: auto;
+}
+
+
+#result {
+  display: none;
+  margin: auto;
+  text-align: center;
+  
+}
